@@ -29,7 +29,7 @@ and predicts emotions based on the FER2013 dataset.
 ---
 
 ### ⚙️ Requirements
-- **Python:** 3.8+ recommended
+- **Python:** 3.10 recommended
 - **Packages:**
   - numpy
   - opencv-python
