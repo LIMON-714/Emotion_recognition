@@ -21,20 +21,7 @@ and predicts emotions based on the FER2013 dataset.
 
 ### 🏗 Project Structure
 
-project_directory/
-│
-├── data/
-│   └── train/   # Training images from FER2013 dataset
-│   └── test/    # Testing images from FER2013 dataset
-│
-├── model/
-│   ├── emotion_model.json           # Trained model architecture
-│   ├── emotion_model.h5             # Trained model weights
-│   └── haarcascade_frontalface_default.xml  # Haarcascade classifier
-│
-├── TrainEmotionDetector.py          # Script to train emotion detection model
-├── TestEmotionDetector.py           # Script to test emotion detection on webcam/video
-└── README.txt        
+<img width="744" height="365" alt="image" src="https://github.com/user-attachments/assets/0cbd045a-7a52-4a6b-8420-93d50222ad4e" />
 
 
 
@@ -100,7 +87,13 @@ project_directory/
 --------------
 - Faces are detected with rectangles
 - Predicted emotions appear above each face in real-time
-- vodeo
+- Works smoothly with webcam or pre-recorded videos
+
+---
+
+### 🎥 Demo Video  
+Watch the emotion recognition result here:  
+https://github.com/LIMON-714/Emotion_recognition/blob/master/result_video/result_video.mp4  
 
 ---
 
