@@ -91,11 +91,9 @@ and predicts emotions based on the FER2013 dataset.
 
 ---
 
-### 🎥 Demo Video
-<video width="640" height="360" controls>
-  <source src="https://github.com/LIMON-714/Emotion_recognition/raw/master/result_video/result_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+### 🎥 Demo
+<img width="1298" height="685" alt="image" src="https://github.com/user-attachments/assets/5591645a-05d0-4b2a-a347-a6d7aa5cb074" />
+
  
 
 ---
